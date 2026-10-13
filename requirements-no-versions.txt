@@ -1,0 +1,7 @@
+Flask
+python-dateutil
+flask-login
+flask-sqlalchemy
+flask-WTF
+PyMySQL
+dotenv
